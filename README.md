@@ -8,10 +8,9 @@
 - 🌱 I’m currently learning: Full-stack development with a focus on JavaScript, Python, and exploring frameworks like React and Django.
 - 👯 I’m looking to collaborate and build real world projects.
 - 🤔 I’m looking for help with: Understanding best practices in software engineering, mentorship opportunities, and advice on kickstarting a career in tech.
-- 💬 Ask me about: My journey into coding, learning resources, and my enthusiasm for embracing new technologies.
 - 📫 How to reach me: Drop me a message at yusufhajiali7@gmail.com. I'm also open to connecting on LinkedIn https://www.linkedin.com/in/yusuf-haji-ali/.
 
-## Technology-Stack
+## My Technology-Stack
 
 <div align="left" dir="auto">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
@@ -46,14 +45,8 @@
   <a href="https://getbootstrap.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="max-width: 100%;">
   </a>
-  <a href="https://mui.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" style="max-width: 100%;">
-  </a>
   <a href="https://redux.js.org/" rel="nofollow">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" style="max-width: 100%;">
-  </a>
-  <a href="https://webpack.js.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" style="max-width: 100%;">
   </a>
   <a href="https://www.figma.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="max-width: 100%;">
