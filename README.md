@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: Full-stack development with a focus on JavaScript, Python, and exploring frameworks like React and Django.
 - 👯 I’m looking to collaborate and build real world projects.
 - 🤔 I’m looking for help with: Understanding best practices in software engineering, mentorship opportunities, and advice on kickstarting a career in tech.
-- 📫 How to reach me: Drop me a message at yusufhajiali7@gmail.com. I'm also open to connecting on LinkedIn https://www.linkedin.com/in/yusuf-haji-ali/.
+- 📫 How to reach me: Drop me a message at yhajiali7@gmail.com. I'm also open to connecting on LinkedIn https://www.linkedin.com/in/yusuf-haji-ali/.
 
 ## My Technology-Stack
 
