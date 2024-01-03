@@ -5,10 +5,10 @@
 ## Here's abit about me.
 
 - 🔭 I’m currently working on: Strengthening my foundational programming skills through personal projects and coding challenges.
-- 🌱 I’m currently learning: Full-stack development with a focus on JavaScript, Python, and exploring frameworks like React and Django.
+- 🌱 I’m currently learning: Full-stack development with a focus on JavaScript, Python, and exploring frameworks like React and Angular.
 - 👯 I’m looking to collaborate and build real world projects.
 - 🤔 I’m looking for help with: Understanding best practices in software engineering, mentorship opportunities, and advice on kickstarting a career in tech.
-- 📫 How to reach me: Drop me a message at yhajiali7@gmail.com. I'm also open to connecting on LinkedIn https://www.linkedin.com/in/yusuf-haji-ali/.
+- 📫 How to reach me: Drop me a message at yhajiali7@gmail.com. I'm also open to connecting on <a href="https://www.linkedin.com/in/yhajiali">LinkedIn</a>.
 
 ## My Technology-Stack
 
@@ -33,12 +33,12 @@
   <a href="https://chakra-ui.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" style="max-width: 100%;">
   </a>
-<!--   <a href="https://nextjs.org/docs" rel="nofollow">
+  <a href="https://nextjs.org/docs" rel="nofollow">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" style="max-width: 100%;">
   </a>
   <a href="https://tailwindcss.com/" rel="nofollow">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" style="max-width: 100%;">
-  </a> -->
+  </a>
   <a href="https://sass-lang.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" style="max-width: 100%;">
   </a>
