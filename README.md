@@ -35,3 +35,4 @@
 ## Github Stats
 
 <img align="left" alt="Yusuf's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yhajiali&show_icons=true&hide_border=false&title_color=006CD2&icon_color=006CD2&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img style="height: 195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhajiali&show_icons=true&hide_border=false&title_color=006CD2&icon_color=006CD2&bg_color=09131B&text_color=ffffff&border_color=0c1a25&layout=compact"/>
