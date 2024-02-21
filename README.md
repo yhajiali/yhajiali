@@ -6,7 +6,7 @@
 ## Here's abit about me.
 
 - 🔭 I’m currently working on: Strengthening my foundational programming skills through personal projects and coding challenges.
-- 🌱 I’m currently learning: Full-stack development with a focus on JavaScript, Python, and exploring frameworks like React and Angular.
+- 🌱 I’m currently learning: Full-stack development with a focus on JavaScript, Python, and exploring frameworks like Next.js and Tailwind CSS.
 - 👯 I’m looking to collaborate and build real world projects.
 - 🤔 I’m looking for help with: Understanding best practices in software engineering, mentorship opportunities, and advice on kickstarting a career in tech.
 - 📫 How to reach me: Drop me a message at yhajiali7@gmail.com. I'm also open to connecting on <a href="https://www.linkedin.com/in/yhajiali">LinkedIn</a>.
