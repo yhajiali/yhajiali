@@ -1,7 +1,4 @@
-[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=X&logoColor=white&color=black" />](https://www.twitter.com/yhajiali_)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yhajiali/)
-
-## Here's abit about me.
+# [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=X&logoColor=white&color=black" />](https://www.twitter.com/yhajiali_) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yhajiali/)
 
 - [<img src="https://yhajiali.com/favicon.ico" style="width: 15px; height: 15px"/>](https://brianruizy.com/) 
 Feel free to checkout my [portfolio](https://yhajiali.com/) website!
@@ -9,10 +6,7 @@ Feel free to checkout my [portfolio](https://yhajiali.com/) website!
 - 🧰 I build with: `TypeScript`, `JavaScript`, `Next.js`, `Tailwind` ...
 - ⚡ I enjoy reading, playing sports ⚽️🏀, and lifting weights :)
 - 📫 Reach out to me: yusuf@yhajiali.com
-
-
-## Languages and Tools:
-
+#
 
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
