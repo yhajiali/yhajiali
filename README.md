@@ -1,9 +1,9 @@
-# [<img src="https://img.shields.io/badge/X/twitter-%230077B5.svg?&style=for-the-badge&logo=X&logoColor=white&color=black" />](https://www.twitter.com/yhajiali_) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yhajiali/)
+#  [<img src="https://img.shields.io/badge/X/twitter-%230077B5.svg?&style=for-the-badge&logo=X&logoColor=white&color=black" />](https://www.twitter.com/yhajiali_) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yhajiali/)
 
-- [<img src="https://yhajiali.com/favicon.ico" style="width: 15px; height: 15px"/>](https://brianruizy.com/) 
+- [<img src="https://yhajiali.com/favicon.ico" style="width: 15px; height: 15px"/>](https://yhajiali.com/) 
 Feel free to checkout my [portfolio](https://yhajiali.com/) website!
-- 🏢 Full Stack Software Engineer based in Manchester, UK.
-- 🧰 I build with: `TypeScript`, `JavaScript`, `Next.js`, `Tailwind` ...
+- 💼 Full Stack Software Engineer based in Manchester, UK.
+- 👨🏽‍💻 I build with: `TypeScript`, `JavaScript`, `Next.js`, `Tailwind` ...
 - ⚡ I enjoy reading, playing sports ⚽️🏀, and lifting weights :)
 - 📫 Reach out to me: yusuf@yhajiali.com
 #
